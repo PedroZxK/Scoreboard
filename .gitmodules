@@ -1,0 +1,3 @@
+[submodule "Scoreboard-Plus"]
+	path = Scoreboard-Plus
+	url = https://github.com/<user>/Scoreboard-Plus.git
